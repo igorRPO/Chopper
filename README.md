@@ -1,4 +1,6 @@
 # Chopper
+Диаграмма свойств и действий персонажа: [default.pdf](https://github.com/user-attachments/files/35482692/default.pdf)
+
 Игра
 
 Концепт игры:
